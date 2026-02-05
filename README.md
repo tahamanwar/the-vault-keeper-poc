@@ -10,6 +10,6 @@ This repository contains the Proof of Concept for "The Vault Keeper" project pro
 
 ## How to Run
 1. Ensure Python 3.13.1 is installed (Run: 'python --version' in the terminal)
-2. Install the Flask framework (Run: 'pip install flask' in the terminal)
+2. Install the Flask framework (Run: 'pip install flask' for Windows, and 'brew install flask' for Mac in the terminal)
 3. Change your directory to the project's folder and run this command: 'python app.py'
 4. The terminal will show "Running on http://127.0.0.1:5000", either paste this into your web browser or ctrl + left-click the link from the terminal to open the website.
